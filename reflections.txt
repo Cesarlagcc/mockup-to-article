@@ -1,0 +1,18 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+The new skills that I have learned throughout the first lesson have been very valuable. I would say the importance of indentation has been set into my mind as I have a further understanding of its importance.
+
+What I have found easy was the html tags introduced into this first lesson, I say this because I have had previous moments in which I have written some basic html code before.
+
+What I would say is difficult is getting a solid understanding of paths. Although the examples given in the lesson were great. I feel that later on they can get a bit more complicated and for that reason I am keeping very close attention to that.
+
+Throughout these first couple lessons, I have been using the mozilla site provided while also googling on my own and seeing examples of the tags and paths that other people online have to show. 
+
